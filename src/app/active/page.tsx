@@ -19,7 +19,7 @@ export default function ActivePage() {
           </div>
           <div className={styles.noidung}>
             <h5>
-              <i>HOẠT ĐỘNG CỦA HỘI SẼ ĐƯỢC CẬP NHẬP VÀO THỜI GIAN TỚI!!!</i>
+              <i>Hoạt động của hội sẽ được cập nhập vào thời gian tới!!!</i>
             </h5>
           </div>
         </div>
