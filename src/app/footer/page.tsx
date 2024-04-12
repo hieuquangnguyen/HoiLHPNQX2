@@ -66,7 +66,10 @@ export default function Footer() {
               </p>
               <p>
                 <b style={{ color: "black" }}>Zalo</b>:{" "}
-                <a href="#" className="btn btn-primary">
+                <a
+                  href="https://zalo.me/g/ezdixu640"
+                  className="btn btn-primary"
+                >
                   <b>Tham Gia Nhóm</b>
                 </a>
               </p>
