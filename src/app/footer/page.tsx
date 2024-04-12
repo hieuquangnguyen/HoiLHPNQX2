@@ -26,15 +26,27 @@ export default function Footer() {
                 <b>Thông tin liên hệ</b>
               </h4>
               <p>
-                <b style={{ color: "black" }}>Email</b>: <i>đang cập nhập</i>
+                <b style={{ color: "black" }}>Email</b>:{" "}
+                <a
+                  href="mailto:phunuqx2@gmail.com"
+                  style={{ color: "white", textDecoration: "underline" }}
+                >
+                  phunuqx2@gmail.com
+                </a>
               </p>
               <p>
                 <b style={{ color: "black" }}>Số điện thoại</b>:{" "}
-                <i>đang cập nhập</i>
+                <a
+                  href="tel:0935257567"
+                  style={{ color: "white", textDecoration: "underline" }}
+                >
+                  0935 257 567
+                </a>
               </p>
+
               <p>
-                <b style={{ color: "black" }}>Địa chỉ</b>: Quế Xuân 2, huyện Quế
-                Sơn , tỉnh Quảng Nam.
+                <b style={{ color: "black" }}>Địa chỉ</b>: Thôn Phú Nguyên, Xã
+                Quế Xuân 2, Huyện Quế Sơn, Tỉnh Quảng Nam.
               </p>
             </div>
             <div className="col-md-6">
@@ -43,7 +55,14 @@ export default function Footer() {
               </h4>
               <p>
                 <b style={{ color: "black" }}>Facebook</b>:{" "}
-                <i>đang cập nhập lại kênh Facebook</i>
+                <i>
+                  <a
+                    href="https://www.facebook.com/profile.php?id=100063773319709"
+                    className="btn btn-primary "
+                  >
+                    <b>Truy Cập Fanpage</b>
+                  </a>
+                </i>
               </p>
               <p>
                 <b style={{ color: "black" }}>Zalo</b>:{" "}

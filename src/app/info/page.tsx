@@ -50,7 +50,7 @@ export default function InfoPage() {
                       Fanpage Facebook
                     </h4>
                     <p className="">
-                      Fanpage của Hội Liên Hiệp Phụ Nữ <b>Quế Xuân</b>
+                      Fanpage của Hội Liên Hiệp Phụ Nữ <b>Quế Xuân 2</b>
                     </p>
                     <a
                       href="https://www.facebook.com/profile.php?id=100063773319709"
